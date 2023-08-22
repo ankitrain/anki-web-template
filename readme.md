@@ -26,13 +26,17 @@ The syntax (HTML) is as follows below,
 ```
 `[NUMBER]` have to be a natural number, and there cannot be two identical `[NUMBER]` in one HTML file. The number should be from 1 to 899.
 
+## Used Icons
+
+We used *Microsoft Fluent UI System Icons* ([GitHub](https://github.com/microsoft/fluentui-system-icons)) as icons on the button (at header and footer).
+
 ## Additional Comment
 
 `index.html` is the sample file of "Anki" website. Feel free to watch it, and let us make your own "Anki" website by using this template.
 
 Sorry about the difficulty in reading English.
 
-This repository is licensed under CC-BY-NC-SA 4.0.
+This repository is licensed under MIT License.
 
 # Anki Web Template
 
@@ -60,8 +64,14 @@ Anki Web Templateはその赤シートとテキストのような使い心地の
 ```
 `[NUMBER]`は, 1から899までの自然数である必要があり, 同一HTMLファイルに同じ数字は1つしか含んではいけない
 
+## 使ったアイコン
+
+*Microsoft Fluent UI System Icons* ([GitHub](https://github.com/microsoft/fluentui-system-icons))というところのアイコンを, ボタンのUIアイコンとして利用しています。
+
 ## 追加情報
 
 `index.html`を, 暗記サイトのサンプルとして置いてあります。ご自由にご覧ください
 
 上の英語の文章のミスがあったら教えてください。
+
+本リポジトリは MIT License でライセンスされています
